@@ -1,0 +1,5 @@
+{
+    "name": "node-eventemitter"
+  , "description": "How to extend the functionality of event class to our own class"
+  , "version": "0.0.1"
+}
